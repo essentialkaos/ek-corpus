@@ -1,9 +1,0 @@
-panic: runtime error: slice bounds out of range
-github.com/essentialkaos/ek/fmtc.tag2ANSI
-github.com/essentialkaos/ek/fmtc.replaceColorTags
-github.com/essentialkaos/ek/fmtc.searchColors
-github.com/essentialkaos/ek/fmtc.applyColors
-github.com/essentialkaos/ek/fmtc.Sprint
-github.com/essentialkaos/ek/fmtc.Fuzz
-go-fuzz-dep.Main
-main.main
