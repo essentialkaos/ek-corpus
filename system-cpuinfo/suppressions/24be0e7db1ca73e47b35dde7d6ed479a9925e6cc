@@ -1,0 +1,5 @@
+panic: runtime error: index out of range
+github.com/essentialkaos/ek/system.parseCPUInfo
+github.com/essentialkaos/ek/system.FuzzCPUInfo
+go-fuzz-dep.Main
+main.main
